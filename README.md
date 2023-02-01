@@ -23,7 +23,7 @@ Run "npm i"
 
 You need mongoDB installed to use it.
 
-https://drive.google.com/file/d/1W4tiVQyPkoQJ190gW2P7dLyjZlh5II6U/view?usp=share_link
+Here is a [walkthrough/demo](https://drive.google.com/file/d/1W4tiVQyPkoQJ190gW2P7dLyjZlh5II6U/view?usp=share_link)
 
 Here is a link to the live site: n/a
 
